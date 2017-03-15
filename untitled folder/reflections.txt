@@ -12,6 +12,6 @@ Your response goes here!
 
 * What has been easy for me as been the paragraph tags. 
 
-* What has been difficult for me is understanding paths and figures. 
+* What has been difficult for me is nesting html tags. 
 
 *I’ve used all of the problem solving strategies to overcome any coding challenges I’ve had however I’ve had difficulty with uploading to git hub.
